@@ -1,5 +1,6 @@
 # 💫 hi! i'm Lucia.
-_about me:_ i'm a computer science student at texas a&m. i love coding (duh), cooking, and gardening.<be> _currently working on:_ a Slack bot for my sorority
+**about me:** i'm a computer science student at texas a&m. i love coding (duh), cooking, and gardening.
+**currently working on:** a Slack bot for my sorority
 
 
 ## 🌐 Socials:
