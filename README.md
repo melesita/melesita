@@ -6,9 +6,6 @@ I am also actively involved in various organizations at A&M, including Phi Sigma
 
 This past year, I gained valuable experience as a Teaching Assistant for CSCE 222 - Discrete Structures for Computing. This role not only deepened my understanding of fundamental concepts but also enhanced my proficiency in LaTeX, which was used in the development of assignments and answer keys.
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucibon04&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luciiameelero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melesita/) 
 
