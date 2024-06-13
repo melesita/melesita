@@ -1,6 +1,6 @@
 # 💫 hi! i'm Lucia.
-* i'm a computer science student at texas a&m. 
-* currently working on a Slack bot for my sorority.
+* i'm a computer science student at texas a&m
+* currently working on a slack bot for my sorority
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucibon04&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
