@@ -1,4 +1,11 @@
-# 💫 hi! i'm Lucia.
+# 💫 Hi! I'm Lucia
+
+I am a Computer Science student at Texas A&M University, with a minor in Mathematics and pursuing a Concept, Creation, and Commercialization (C3) certificate. I am passionate about Artificial Intelligence and Human-Computer Interaction, particularly how their intersection can enhance accessibility to technology. During my time at Texas A&M, I had the privilege of contributing to the development of technology in the Sketch Recognition Lab, aimed at improving the texting interface for individuals with impaired vision.
+
+I am also actively involved in various organizations at A&M, including Phi Sigma Rho, where I serve as the programming director responsible for developing the website ([Phi Sigma Rho Website](https://www.tamuphisigmarho.com/)). Additionally, I was a member of the Texas A&M Women in Engineering UAV team.
+
+This past year, I gained valuable experience as a Teaching Assistant for CSCE 222 - Discrete Structures for Computing. This role not only deepened my understanding of fundamental concepts but also enhanced my proficiency in LaTeX, which was used in the development of assignments and answer keys.
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucibon04&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
