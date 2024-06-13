@@ -1,7 +1,9 @@
 # 💫 hi! i'm Lucia.
 **about me:** i'm a computer science student at texas a&m. i love coding (duh), cooking, and gardening.
+
 **currently working on:** a Slack bot for my sorority
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucibon04&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luciiameelero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melesita/) 
